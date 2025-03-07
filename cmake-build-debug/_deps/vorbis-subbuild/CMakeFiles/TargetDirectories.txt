@@ -1,0 +1,3 @@
+C:/dev/Projects/CPP/fractal-generator/cmake-build-debug/_deps/vorbis-subbuild/CMakeFiles/vorbis-populate.dir
+C:/dev/Projects/CPP/fractal-generator/cmake-build-debug/_deps/vorbis-subbuild/CMakeFiles/edit_cache.dir
+C:/dev/Projects/CPP/fractal-generator/cmake-build-debug/_deps/vorbis-subbuild/CMakeFiles/rebuild_cache.dir
